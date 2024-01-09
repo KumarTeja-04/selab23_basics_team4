@@ -7,6 +7,7 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
 
 @Entity
+//HAFBVIIOA
 class Employee {
 
 	private @Id @GeneratedValue Long id;
